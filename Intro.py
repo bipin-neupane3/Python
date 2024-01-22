@@ -1,5 +1,5 @@
-Print("""
+print("""
 Hello 
-I am Bipin Neupane 
+I am Bipin Neupane.
 currently a student of Electronics and communication engineering exploring the world of machine learning algorithms.
 """)
