@@ -15,5 +15,5 @@ def request():
     return random.randint(1,10)
 
 y=request()
-print("The random integer is ",str(y))
+print("The random integer is",str(y))
 
